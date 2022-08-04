@@ -3,6 +3,7 @@ Etverk bot is a multi-purpose discord-bot based on the discord.py module. It is 
 
 ### Features
 The bot is still a work-in-progress. I am planning on adding these features (more coming soon):
+
 • Information
 
 • Moderation
